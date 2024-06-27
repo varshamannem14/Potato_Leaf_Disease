@@ -1,0 +1,2 @@
+cd frontend npm start
+to run model run python file
